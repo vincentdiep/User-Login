@@ -1,4 +1,4 @@
-# CPSC-131-08-Project-4-User-Login
+# User-Login
 Using Hash Table for user authentication
 
 Group members:
